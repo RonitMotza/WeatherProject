@@ -1,0 +1,47 @@
+  
+        h1{
+            font-size:70px;
+            margin-top:150px;
+        }
+        h5 {
+            font-size:28px;
+            margin-top:-23px;
+        }
+        input {
+            width: 700px;
+            height: 50px;
+            border-radius: 5px;
+            border: 1px solid lightgrey;
+            font-size:20px;
+            padding-left:20px;
+        }
+        button {
+            background-color: #0e7cd4;
+            width: 150px;
+            height: 70px;
+            border: 1px solid #0e7cd4;
+            font-size: 25px;
+            color: white;
+            margin-top: 40px;
+            border-radius: 6px;
+        }
+        #idP{
+            
+     font-Size :20px;
+     background-Color : #dff1da;
+    color :#98ba95;
+     display:inline-block;
+    padding :20px;
+     margin-top : 30px;
+ border-Radius:5px;
+        }
+#idP2{
+             
+     font-Size :20px;
+     background-Color : #f1dae1;
+    color :#ca8c96;
+     display:inline-block;
+    padding :20px;
+     margin-top : 30px;
+ border-Radius:5px;
+}

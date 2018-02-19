@@ -1,0 +1,13 @@
+
+
+ <h1>What's The Weather?</h1>
+ <br>
+    <h5>Enter the name of a city.</h5>
+<br>
+<input  id="idInput" type="text" placeholder="Eg. London, Tokyo" [(ngModel)]="cityName">
+<br>
+<button (click)="clickHandlerGet()">Get</button>
+<br>
+
+<p id="idP" *ngIf= "isItShow">{{showItAll}}<p>
+<p id="idP2" *ngIf= "!isItShow">{{showItAll}}<p>
